@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Phone App</string>
+    <string name="delete_item" />
+    <string name="increase_quantity" />
+    <string name="decrease_quantity" />
+    <string name="cart_item_image" />
+</resources>
